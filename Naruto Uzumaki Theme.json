@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "author": "Chime in theyre natraul habitat#1553",
+        "name": "Naruto Uzumaki Theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018656773122568263\/images_20.jpeg",
+        "overlay_alpha": 5
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "active_channel": -14188851,
+        "statusbar": -14188851,
+        "input_background": -14188851,
+        "blocked_bg": -14188851,
+        "accent": -14188851
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
